@@ -1,0 +1,5 @@
+# Built binary
+boat-attest-c
+
+# BoAT4 SDK (cloned at build time)
+BoAT4/
