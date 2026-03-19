@@ -93,7 +93,7 @@ Run without `--api-key` to use x402 nanopayments:
 ./boat-attest-c
 ```
 
-On first run, a wallet is created at `~/.boat-attest-wallet.json`. Fund it with USDC on Arc Testnet (chain ID 5042002) and deposit into the Circle Gateway contract before use.
+On first run, a wallet is created at `~/.boat-attest-wallet.json`. Fund it with USDC on Arc Testnet (chain ID 5042002) before use.
 
 ### Dry Run
 
